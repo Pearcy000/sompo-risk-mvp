@@ -1,0 +1,5 @@
+[
+  {"event_id":"evt-2026-0001","equipment_id":"EQ-042","timestamp":"2026-09-18T12:00:00Z","region":"Sudeste","operation_type":"urbana","speed_kmh":82,"engine_temp_c":112,"rain_mm":3.4,"maintenance_days":22,"hard_brakes":7},
+  {"event_id":"evt-2026-0002","equipment_id":"EQ-017","timestamp":"2026-09-18T13:00:00Z","region":"Sul","operation_type":"industrial","speed_kmh":30,"engine_temp_c":null,"rain_mm":0,"maintenance_days":2,"hard_brakes":0},
+  {"event_id":"evt-2026-0003","equipment_id":"EQ-083","timestamp":"2026-09-18T14:00:00Z","region":"Nordeste","operation_type":"rodoviaria","speed_kmh":105,"engine_temp_c":92,"rain_mm":14,"maintenance_days":12,"hard_brakes":3}
+]
