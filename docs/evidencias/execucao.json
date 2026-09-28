@@ -1,0 +1,37 @@
+{
+  "source": "data/raw/sample_events.json",
+  "model": "models/risk_model.joblib",
+  "records": 3,
+  "duplicate_events": 0,
+  "audit_valid": true,
+  "results": [
+    {
+      "equipment_id": "EQ-042",
+      "region": "Sudeste",
+      "operation_type": "urbana",
+      "timestamp": "2026-09-18T12:00:00+00:00",
+      "score": 57,
+      "level": "atencao",
+      "model_version": "logreg-synthetic-52a52a62a1d3"
+    },
+    {
+      "equipment_id": "EQ-017",
+      "region": "Sul",
+      "operation_type": "industrial",
+      "timestamp": "2026-09-18T13:00:00+00:00",
+      "score": 2,
+      "level": "normal",
+      "model_version": "logreg-synthetic-52a52a62a1d3"
+    },
+    {
+      "equipment_id": "EQ-083",
+      "region": "Nordeste",
+      "operation_type": "rodoviaria",
+      "timestamp": "2026-09-18T14:00:00+00:00",
+      "score": 29,
+      "level": "normal",
+      "model_version": "logreg-synthetic-52a52a62a1d3"
+    }
+  ],
+  "warning": "Dados e rótulos simulados; não aplicável em produção."
+}
