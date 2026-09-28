@@ -93,7 +93,7 @@ Na Sprint 4 deste pacote: modularização em Python; contrato de entrada; persis
 
 ## Entrega final
 
-- GitHub: criar repositório **privado** e conceder acesso ao perfil `fiap-tutoria` e apenas aos integrantes. **URL ainda não preenchida.** Não alterar após o prazo da FIAP.
+- GitHub: repositório **privado** criado em https://github.com/Pearcy000/sompo-risk-mvp. O convite ao perfil `fiap-tutoria` ainda precisa ser enviado e aceito; adicionar apenas os integrantes autorizados. Não alterar após o prazo da FIAP.
 - Vídeo: gravar narração **humana**, demonstrar o fluxo em até 5 minutos e publicar no YouTube como **não listado**. [Roteiro pronto](docs/roteiro_video.md). **URL ainda não preenchida.**
 - Capturas do painel: produzir ao executar localmente e adicionar em `docs/evidencias/`; as evidências de API e testes já foram geradas.
 - Caso o grupo queira sigilo e não concorrer ao prêmio, seguir a instrução do enunciado e declarar isso na primeira capa. Essa escolha pertence ao grupo.
